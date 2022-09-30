@@ -7,8 +7,8 @@ Generate PDF file using Python: Our Team Audi was assigned to write a Python scr
 # Procedures
 
 - We organised meetings via Google Meet and discussed the best and simple approach to address project task.
-- We agreed to use FPDF Library. PyFPDF is a library for PDF document generation under Python, ported from PHP (FPDF Documentation)[https://pyfpdf.readthedocs.io/en/latest/index.html].
-- We followed the FPDF documentation Tutorial to guide us. (FPDF Tutorial)[https://pyfpdf.readthedocs.io/en/latest/Tutorial/index.html]
+- We agreed to use FPDF Library. PyFPDF is a library for PDF document generation under Python, ported from PHP [FPDF Documentation](https://pyfpdf.readthedocs.io/en/latest/index.html).
+- We followed the FPDF documentation Tutorial to guide us. [FPDF Tutorial](https://pyfpdf.readthedocs.io/en/latest/Tutorial/index.html)
 
 # Authors
 
