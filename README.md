@@ -19,3 +19,9 @@ Generate PDF file using Python: Our Team Audi was assigned to write a Python scr
 5. Emma Ilakut | <emmailakut@gmail.com>
 6. Joan Nabadda | <nabaddajoan1@gmail.com>
 7. Crispus Tayebwa
+
+# References
+
+1. [FPDF Documentation](https://pyfpdf.readthedocs.io/en/latest/index.html)
+2. [FPDF Tutorial](https://pyfpdf.readthedocs.io/en/latest/Tutorial/index.html)
+3. Allen Downey (2012). Think Python: How To Think Like a Computer Scientist
