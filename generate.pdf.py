@@ -4,7 +4,7 @@ title = 'THINK PYTHON: How to Think Like a Computer Scientist'
 
 class PDF(FPDF):
     def header(self):
-        # Arial bold 15
+        # Arial bold 16
         self.set_font('Arial', 'B', 16)
         # Calculate width of title and position
         w = self.get_string_width(title) + 6
